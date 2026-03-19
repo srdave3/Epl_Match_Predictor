@@ -1,6 +1,7 @@
 # EPL Match Outcome Prediction System
 
 A production-ready Streamlit dashboard for predicting English Premier League match scores using advanced ML models (Poisson Dixon-Coles, Random Forest, XGBoost, Neural Network + Ensemble).
+![Uploading image.png…]()
 
 ![EPL Prediction Dashboard](https://via.placeholder.com/1200x600/0f4c1f/ffffff?text=EPL+Match+Predictor)
 
