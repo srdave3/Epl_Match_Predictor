@@ -3,7 +3,7 @@
 A production-ready Streamlit dashboard for predicting English Premier League match scores using advanced ML models (Poisson Dixon-Coles, Random Forest, XGBoost, Neural Network + Ensemble).
 
 
-![EPL Prediction Dashboard](https://placehold.co/1200x600/0f4c1f/ffffff?text=EPL+Match+Predictor)
+![EPL Prediction Dashboard](https://placehold.co/600x200/0f4c1f/ffffff?text=⚽+EPL+Predictor)
 
 ## Features
 - **Match Predictor**: Select teams → Get score predictions, Win/Draw/Loss probabilities, score heatmap
