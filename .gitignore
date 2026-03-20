@@ -12,7 +12,7 @@ venv/
 models/trained_models/*.pkl
 
 # Data (optional)
-data/*.csv
+# data/*.csv
 
 # Streamlit cache
 .streamlit/
